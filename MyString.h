@@ -1,7 +1,8 @@
 #pragma once
 #include <iostream>
 
-class MyString {
+class MyString 
+{
 private:
 	char* data;
 	size_t length;
