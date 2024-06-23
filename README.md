@@ -35,3 +35,5 @@ The system is divided into several classes, each representing a different part o
 - **Account**: Represents a bank account
 - **Task**: Represents tasks assigned to bank employees
 - **Check**: Represents checks issued by external firm employees
+
+![](https://www.creditdonkey.com/image/1/550w/how-long-does-it-take-to-open-a-bank-account.webp)
