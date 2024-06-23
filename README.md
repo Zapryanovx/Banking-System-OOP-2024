@@ -36,4 +36,4 @@ Here's an overview of the key components:
 - **Task**: Represents tasks assigned to bank employees
 - **Check**: Represents checks issued by external firm employees
 
-![](https://www.creditdonkey.com/image/1/550w/how-long-does-it-take-to-open-a-bank-account.webp)
+![](https://wallpapercave.com/wp/wp4288267.jpg)
