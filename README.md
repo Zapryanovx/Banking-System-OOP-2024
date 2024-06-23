@@ -1,5 +1,3 @@
-# Banking-System-OOP-2024
-
 # Banking System Project
 
 This project implements a banking system with core functionalities, supporting various user
