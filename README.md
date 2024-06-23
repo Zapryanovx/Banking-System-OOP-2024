@@ -2,7 +2,8 @@
 
 # Banking System Project
 
-This project implements a banking system with core functionalities, supporting various user types such as clients, bank employees, and external firm employees.
+This project implements a banking system with core functionalities, supporting various user
+types such as clients, bank employees, and external firm employees.
 
 ## Features
 
@@ -23,7 +24,8 @@ This project implements a banking system with core functionalities, supporting v
 
 ## System Architecture
 
-The system is divided into several classes, each representing a different part of the banking system. Here's an overview of the key components:
+The system is divided into several classes, each representing a different part of the banking system.
+Here's an overview of the key components:
 
 ### Key Classes
 
